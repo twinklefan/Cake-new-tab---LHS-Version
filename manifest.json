@@ -1,0 +1,16 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "cake.html"
+   },
+   "description": "Cake crazy monster that doesn't look like a monster",
+   "icons": {
+      "128": "images/cake0.png"
+   },
+   "background": {
+    "scripts": ["cake.js"]
+},
+   "manifest_version": 2,
+   "name": "CAKE MONSTER. LHS Version",
+   "permissions": [ "storage", "bookmarks", "chrome://favicon/" ],
+   "version": "2"
+}
